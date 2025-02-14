@@ -1,0 +1,308 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(162, 183, 222);
+}
+
+
+.boul{
+   
+    display: flex;
+    justify-content: center;
+
+
+}
+
+h2{
+    text-align: center;
+    margin-top: 30px;
+color: rgba(61, 105, 20, 0.915);
+}
+.calculator{
+  background-color:rgb(224, 207, 207);
+  width: 360px;
+  height: 360px;
+text-align: center;
+margin-top: 10%;
+border-radius: 50%;
+border: 5px solid goldenrod;
+}
+
+input{
+    padding: 15px;
+    margin-top: 30px;
+    border: 5px solid transparent;
+    border-radius: 10px;
+    background-color: rgb(165, 208, 193);
+    border: 2px solid black;
+}
+
+.r1{
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.btn1{
+height:45px;
+width: 45px;
+border: 2px solid transparent;
+border-radius: 50%;
+font-size: larger;
+background-color: red;
+color: aliceblue;
+cursor: pointer;
+}
+
+.btn2{
+    height:45px;
+    width: 45px;
+    border: 2px solid transparent;
+    border-radius: 50%;
+    font-size: larger;
+    background-color: rgb(133, 223, 125);
+    cursor: pointer;
+    }
+
+    .btn3{
+        height:45px;
+        width: 45px;
+        border: 2px solid transparent;
+        border-radius: 50%;
+        font-size: larger;
+        background-color: rgb(133, 223, 125);
+        cursor: pointer;
+        }
+
+        .btn4{
+            height:45px;
+            width: 45px;
+            border: 2px solid transparent;
+            border-radius: 50%;
+            font-size: larger;
+            background-color: rgb(133, 223, 125);
+            cursor: pointer;
+            }
+
+            .btn5{
+                height:45px;
+                width: 45px;
+                border: 2px solid transparent;
+                border-radius: 50%;
+                font-size: larger;
+                background-color: rgb(133, 223, 125);
+                cursor: pointer;
+                }
+
+                
+.r2{
+    margin-top: 10px;
+    width: 100%;
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.btn6{
+height:45px;
+width: 45px;
+border: 2px solid transparent;
+border-radius: 50%;
+font-size: larger;
+background-color: rgb(170, 201, 170);
+cursor: pointer;
+}
+
+.btn7{
+    height:75px;
+    width: 75px;
+    border: 2px solid transparent;
+    border-radius: 50%;
+    font-size: larger;
+    background-color: rgb(200, 190, 99);
+    color: black;
+    cursor: pointer;
+    }
+
+    .btn8{
+        height:45px;
+        width: 45px;
+        border: 2px solid transparent;
+        border-radius: 50%;
+        font-size: larger;
+        background-color: rgb(170, 201, 170);
+        cursor: pointer;
+        }
+
+        .btn9{
+            height:45px;
+            width: 45px;
+            border: 2px solid transparent;
+            border-radius: 50%;
+            font-size: larger;
+            background-color: rgb(170, 201, 170);
+            cursor: pointer;
+            }
+
+            .btn10{
+                height:45px;
+                width: 45px;
+                border: 2px solid transparent;
+                border-radius: 50%;
+                font-size: larger;
+                background-color: rgb(170, 201, 170);
+                cursor: pointer;
+                }
+
+
+
+                
+.r3{
+    margin-top: 10px;
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 15px;
+}
+
+.btn11{
+height:45px;
+width: 45px;
+border: 2px solid transparent;
+border-radius: 50%;
+font-size: larger;
+background-color: rgb(170, 201, 170);
+cursor: pointer;
+}
+
+.btn12{
+    height:45px;
+    width: 45px;
+    border: 2px solid transparent;
+    border-radius: 50%;
+    font-size: larger;
+    background-color: rgb(170, 201, 170);
+    cursor: pointer;
+    }
+
+    .btn13{
+        height:45px;
+        width: 45px;
+        border: 2px solid transparent;
+        border-radius: 50%;
+        font-size: larger;
+        background-color: coral;
+        cursor: pointer;
+        }
+
+        .btn14{
+            height:45px;
+            width: 45px;
+            border: 2px solid transparent;
+            border-radius: 50%;
+            font-size: larger;
+            background-color: rgb(170, 201, 170);
+            cursor: pointer;
+            }
+
+           
+
+
+                               
+.r4{
+    margin-top: 10px;
+    width: 60%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 75px;
+}
+
+.btn15{
+height:45px;
+width: 45px;
+border: 2px solid transparent;
+border-radius: 50%;
+font-size: larger;
+background-color: rgb(170, 201, 170);
+cursor: pointer;
+}
+
+.btn16{
+    height:45px;
+    width: 45px;
+    border: 2px solid transparent;
+    border-radius: 50%;
+    font-size: larger;
+    background-color: rgb(170, 201, 170);
+    cursor: pointer;
+    }
+
+    .btn17{
+        height:45px;
+        width: 45px;
+        border: 2px solid transparent;
+        border-radius: 50%;
+        font-size: larger;
+        background-color: rgb(170, 201, 170);
+        cursor: pointer;
+        }
+    
+/* hover part */
+
+.btn1:hover{
+    background-color: rgb(213, 223, 231);
+    color: black;
+}
+
+.btn2:hover{
+    background-color: rgb(213, 223, 231);
+}
+
+.btn3:hover{
+    background-color: rgb(213, 223, 231);
+}
+
+.btn4:hover{
+    background-color: rgb(213, 223, 231);
+}
+.btn5:hover{
+    background-color: rgb(213, 223, 231);
+}
+.btn6:hover{
+    background-color: rgb(213, 223, 231);
+}
+.btn7:hover{
+    background-color: rgb(213, 223, 231);
+}
+.btn8:hover{
+    background-color: rgb(213, 223, 231);
+}
+.btn9:hover{
+    background-color: rgb(213, 223, 231);
+}
+.btn10:hover{
+    background-color: rgb(213, 223, 231);
+}
+.btn11:hover{
+    background-color: rgb(213, 223, 231);
+}
+.btn12:hover{
+    background-color: rgb(213, 223, 231);
+}
+.btn13:hover{
+    background-color: rgb(213, 223, 231);
+}
+.btn14:hover{
+    background-color: rgb(213, 223, 231);
+}
+.btn15:hover{
+    background-color: rgb(213, 223, 231);
+}
+.btn16:hover{
+    background-color: rgb(213, 223, 231);
+}
+.btn17:hover{
+    background-color: rgb(213, 223, 231);
+}
